@@ -1,4 +1,4 @@
-#Analyzing the historical changes in the number, spatial distribution, and intensity of tornadoes in Georgia
+# Analyzing the historical changes in the number, spatial distribution, and intensity of tornadoes in Georgia
 
 
 Tornado History in Georgia
